@@ -1,6 +1,6 @@
 function populate(){
     if(quiz.isEnded()){
-        showScores();
+        //showScores();
     }
     else{
         //show question

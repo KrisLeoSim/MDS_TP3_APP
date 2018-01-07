@@ -165,6 +165,68 @@ body{
 
 /*------------------------------------------------------------------------FIM SLIDES 1*/
 
+
+/*------------------------------------------------------------------------INICIAR QUIZ*/
+.IniciarQuiz{
+    margin: 0 auto;
+    width:45%;
+}
+
+#iniciar{
+    background: #57636e;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    border: solid #000000 2px;
+    text-decoration: none;
+    margin: 10px;
+    width: 500px;
+}
+
+#iniciar:hover {
+    background: #728591;
+    text-decoration: none;
+}
+
+#iniciar:focus{
+    outline: 0;
+}
+
+#home{
+    background: #57636e;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    border: solid #000000 2px;
+    text-decoration: none;
+    margin: 10px;
+    width: 500px;
+
+}
+
+#home:hover {
+    background: #728591;
+    text-decoration: none;
+}
+
+#home:focus {
+    outline: 0;
+}
+
+.grid #TextoIniciaQuiz{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #5a6772;
+    text-align: center;
+}
+/*------------------------------------------------------------------------FIM INICIAR QUIZ*/
+
+
+
 .buttons {
     margin-top: 30px;
 }
