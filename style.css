@@ -225,7 +225,58 @@ body{
 }
 /*------------------------------------------------------------------------FIM INICIAR QUIZ*/
 
+/*------------------------------------------------------------------------ESCOLHA MATERIA*/
 
+.EscolhaMateria{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#test{
+    background: #57636e;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 100px 20px 100px 20px;
+    border: solid #000000 2px;
+    text-decoration: none;
+    margin: 5px;
+    width: 49%;
+}
+
+#test:hover {
+    background: #728591;
+    text-decoration: none;
+}
+
+#test:focus{
+    outline: 0;
+}
+
+#conti{
+    background: #57636e;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 100px 20px 100px 20px;
+    border: solid #000000 2px;
+    text-decoration: none;
+    margin: 5px;
+    width: 49%;
+
+}
+
+#conti:hover {
+    background: #728591;
+    text-decoration: none;
+}
+
+#conti:focus {
+    outline: 0;
+}
+/*------------------------------------------------------------------------FIM ESCOLHA MATERIA*/
 
 .buttons {
     margin-top: 30px;
